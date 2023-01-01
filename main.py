@@ -1,5 +1,4 @@
 gameBoard=[[" " for _ in range(6)] for _ in range(7)]
-#●◯
 count=0
 def printBoard():
     print("_"*57)
